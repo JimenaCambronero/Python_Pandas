@@ -2,19 +2,20 @@
 Repositorio de GitHub dedicado al aprendizaje de Pandas y su importancia en el análisis de datos! 🐼💼
 
 
-# 📝Descripción
-
+# <h3>📝 Descripción<h3>
 En este repositorio, he recopilado una serie de conceptos clave, ejercicios prácticos y recursos útiles para que aquellos que están comenzando en el mundo del análisis de datos puedan sumergirse en el poder de Pandas. Como alguien que ha estado en la búsqueda de su primer empleo en este campo, entiendo lo crucial que es dominar esta herramienta y estar preparado para los desafíos del mundo real.
 
 
-# <h3>🎯Contenido del Repositorio:<h3>
+# <h3>🎯 Contenido del Repositorio:<h3>
 
-# Jupyter Notebook:
+# <h4> Jupyter Notebook: <h4>
 Este notebook contiene un análisis dedicado al aprendizaje de Pandas y su importancia en el análisis de datos para aquellos que buscan su primer empleo en este campo! 🐼
 
-# Conjunto de Datos en csv : 
+# <h4> Conjunto de Datos en csv : <h4>
 Se incluye el conjunto de datos utilizado en el análisis. 
+
 https://drive.google.com/file/d/1HTCYiLHnIY72-O5qde0O5Tp5vVIuq2bl/view?usp=sharing
+
 https://drive.google.com/file/d/1v-uBSxvs0cy0iBRTSl5p2dhWNiheLKC_/view?usp=sharing
 
 # <h4> Cómo Utilizar Este Repositorio: <h4>
