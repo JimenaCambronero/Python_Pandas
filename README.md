@@ -54,4 +54,9 @@ Experimenta con el código y los datos por tu cuenta para obtener una comprensi�
 # <h4> Si te gusta alguno de los repositorios, podes hacer clic para darme tu apoyo en el ⭐️ botón y correr la voz 🦄⁣ <h4>
 ⁣
 👩‍💻 Muchas gracias y Saludos!⁣
->>>>>>> 01d86cd0bb9a8cd0904d7074094e1ea3826a8e69
+.
+.
+.
+.
+.
+Cuaderno de estudio de Data con Steven
