@@ -59,4 +59,4 @@ Experimenta con el c√≥digo y los datos por tu cuenta para obtener una comprensi√
 .
 .
 .
-Cuaderno de estudio de Data con Steven
+El Cuaderno de estudio pertenece a Data con Steven
