@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # <h2> Repositorio de GitHub dedicado al aprendizaje de Pandas y su importancia en el análisis de datos! 🐼💼<h2>
 
 
